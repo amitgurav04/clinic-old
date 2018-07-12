@@ -13,6 +13,7 @@ group :development, :test do
   gem 'web-console', '~> 2.0'
   gem 'spring'
 end
+gem 'sprockets-rails', :require => 'sprockets/railtie'
 gem 'bootstrap', '~> 4.0.0'
 gem 'devise'
 gem 'high_voltage'
