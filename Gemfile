@@ -16,7 +16,7 @@ end
 gem 'bootstrap', '~> 4.0.0'
 gem 'devise'
 gem 'high_voltage'
-gem 'pg', '~> 0.18'
+gem 'pg'
 gem 'therubyracer', :platform=>:ruby
 gem 'rails_12factor'
 group :development do
