@@ -57,5 +57,5 @@ production:
   database: clinic_production
   pool:     5
   username: postgres
-  password: postgres
+  password:  <%= ENV['CLINIC_DATABASE_PASSWORD'] %>
   template: template0
