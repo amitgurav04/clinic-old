@@ -18,6 +18,7 @@ gem 'devise'
 gem 'high_voltage'
 gem 'pg', '~> 0.18'
 gem 'therubyracer', :platform=>:ruby
+gem 'rails_12factor'
 group :development do
   gem 'better_errors'
   gem 'hub', :require=>nil
