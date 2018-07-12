@@ -195,6 +195,7 @@ DEPENDENCIES
   pg (~> 0.18)
   rails (= 4.2.1)
   rails_layout
+  rake
   sass-rails (~> 5.0)
   spring
   therubyracer
